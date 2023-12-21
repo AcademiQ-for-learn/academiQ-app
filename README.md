@@ -1,0 +1,1 @@
+# academiQ-app
